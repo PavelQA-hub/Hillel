@@ -10,6 +10,6 @@ public class NewTask {
         for (int i = 1; i < degree; i++) {
             res = res * num;
         }
-        return res;
+        return res; //hello
     }
 }
